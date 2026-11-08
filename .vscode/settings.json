@@ -1,0 +1,12 @@
+{
+    "prisma.pinToPrisma6": true,
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "/backend/package.json",
+                "/frontend/package.json"
+            ],
+            "url": "https://json.schemastore.org/package.json"
+        }
+    ]
+}
